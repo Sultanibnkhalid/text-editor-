@@ -1,0 +1,15 @@
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Release\Editor.exe.config
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Release\Editor.exe.manifest
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Release\Editor.application
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Release\Editor.exe
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Release\Editor.pdb
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Release\IrisSkin2.dll
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Release\Editor.Form1.resources
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Release\Editor.frmAbout.resources
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Release\Editor.Properties.Resources.resources
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Release\Editor.csproj.GenerateResource.Cache
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Release\Editor.TrustInfo.xml
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Release\Editor.exe.manifest
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Release\Editor.application
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Release\Editor.exe
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Release\Editor.pdb

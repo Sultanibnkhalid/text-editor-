@@ -1,0 +1,45 @@
+C:\Users\hp\Desktop\Projects\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\hp\Desktop\Projects\Editor\Editor\bin\Debug\Editor.exe.manifest
+C:\Users\hp\Desktop\Projects\Editor\Editor\bin\Debug\Editor.application
+C:\Users\hp\Desktop\Projects\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\hp\Desktop\Projects\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\hp\Desktop\Projects\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Projects\Editor\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\hp\Desktop\Projects\Editor\Editor\obj\Debug\Editor.frmAbout.resources
+C:\Users\hp\Desktop\Projects\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\hp\Desktop\Projects\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Projects\Editor\Editor\obj\Debug\Editor.exe.manifest
+C:\Users\hp\Desktop\Projects\Editor\Editor\obj\Debug\Editor.application
+C:\Users\hp\Desktop\Projects\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\hp\Desktop\Projects\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Debug\Editor.exe.manifest
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Debug\Editor.application
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\bin\Debug\IrisSkin2.dll
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.frmAbout.resources
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.exe.manifest
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.application
+C:\Users\Sultan Alshojify\Desktop\Editor\Editor\obj\Debug\Editor.TrustInfo.xml
+F:\خاص c#\Editor\Editor\bin\Debug\Editor.exe.config
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.exe
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.pdb
+F:\خاص c#\Editor\Editor\bin\Debug\Editor.exe.manifest
+F:\خاص c#\Editor\Editor\bin\Debug\Editor.application
+F:\خاص c#\Editor\Editor\bin\Debug\Editor.exe
+F:\خاص c#\Editor\Editor\bin\Debug\Editor.pdb
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.csprojResolveAssemblyReference.cache
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.Form1.resources
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.frmAbout.resources
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.Cache
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.TrustInfo.xml
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.exe.manifest
+F:\خاص c#\Editor\Editor\obj\Debug\Editor.application
